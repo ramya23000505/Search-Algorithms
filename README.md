@@ -84,7 +84,7 @@ else:
     print("Element found at index: ",result)
 ```
 ## Sample Input and Output
-#Use a linear search method to match the item in a list.
+# Use a linear search method to match the item in a list.
 ![Screenshot 2024-03-27 091442](https://github.com/ramya23000505/Search-Algorithms/assets/149370791/3800a9de-0cec-4828-83cd-7a561832de35)
 ![Screenshot 2024-03-27 091449](https://github.com/ramya23000505/Search-Algorithms/assets/149370791/41ab0a8c-0462-4b50-bf1f-029dcdd006c6)
 # Find the element in a list using Binary Search(Iterative Method).
